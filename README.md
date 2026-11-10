@@ -66,7 +66,7 @@ Do not treat this implementation as production-ready without further testing, se
 ## Official NeoRedPill Links
 
 - Website: https://neoredpill.com
-- GitHub: https://github.com/NeoRedPill101
+- GitHub: https://github.com/NeoRedPillOfficial
 - Contact: nrp@neoredpill.com
 
 ## License
